@@ -1,0 +1,29 @@
+box {
+  background-color: pink;
+    margin:15px;
+}
+
+h2 {
+    color: black;
+
+    font-family: Verdana;
+    font-weight: 600;
+    margin-right: 20px;
+
+
+}
+h4  {
+    color: black;
+    font-family: Verdana;
+    padding-right: 15px;
+
+}
+p{
+
+    style : "font-family:courier";
+    margin-right: 20px;
+}
+
+.bkgimg{
+    background-image: url("picture2.jpg");
+}
